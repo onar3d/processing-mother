@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MotherDeliveryEclipse/SpoutDll"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="X:/PortableApps/PortableApps/Processing/core/library/core.jar" sourcepath="/processing-head-1.0.1/"/>
+	<classpathentry kind="lib" path="X:/PortableApps/PortableApps/Processing/core/library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="X:/PortableApps/PortableApps/Processing/core/library/jogl-all.jar"/>
+	<classpathentry kind="lib" path="X:/PortableApps/Processing_Sketchbook/libraries/oscP5/library/oscP5.jar"/>
+	<classpathentry kind="lib" path="X:/PortableApps/Processing_Sketchbook/libraries/Spout/library/Spout.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/processing-Foetus"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MostPixelsEver"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/processing-Mother Synths"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Mother"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
