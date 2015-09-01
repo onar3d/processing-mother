@@ -56,6 +56,8 @@ import java.net.UnknownHostException;
 
 import foetus.*;
 
+// Look at me doing things to things, ain't this neat!
+
 /*
 BUILDING RELEASE:
 o	First build the Foetus plugin running the Ant script in the processing-Foetus project. 

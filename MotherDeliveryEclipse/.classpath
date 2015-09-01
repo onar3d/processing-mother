@@ -14,6 +14,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/processing-Foetus"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/MostPixelsEver"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/processing-Mother Synths"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Mother"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/processing-Mother"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
